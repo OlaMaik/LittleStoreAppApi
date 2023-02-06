@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LittleStoreAppApi", "Little
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LittleStoreAppBusinessLogic", "LittleStoreAppBusinessLogic\LittleStoreAppBusinessLogic.csproj", "{71BF7185-76D0-4E84-8552-6259812AB94A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit-tests", "Unit-tests\Unit-tests.csproj", "{EC5F0FD8-F5A0-40F7-85D2-14AE3C0C1519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit-tests", "Unit-tests\Unit-tests.csproj", "{EC5F0FD8-F5A0-40F7-85D2-14AE3C0C1519}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B3E0A9C-21A2-4944-91A5-04511256B744}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
